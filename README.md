@@ -9,4 +9,5 @@
 |1|lab0.cpp|24.09.2026|1|
 |2|lab1.cpp|01.01.2027|0|
 |3|lab2.cpp|01.01.2028|0|
+!(https://i.pinimg.com/originals/26/91/6d/26916d9a2f2cd1dbd1dbbe33ec1030dd.jpg)
 
