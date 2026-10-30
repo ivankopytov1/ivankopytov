@@ -7,9 +7,9 @@ int main() {
 
     double a = 0.1;
     double b = 1.0;
-    int k_steps = 9;
+    int k_steps = 10;
     int n_fixed = 10;
-    double epsilon = 0.0001;
+    double e = 0.0001;
 
     // Шаг
     double h = (b - a) / k_steps;
@@ -41,7 +41,7 @@ int main() {
         double SE = 0.0;
         double term = 1.0;
         int k = 0;
-        while (abs(term) >= epsilon) 
+        while (abs(term) >= e) 
         {
             double fact = 1.0;
             for (int i = 2; i <= 2 * k; ++i) 
